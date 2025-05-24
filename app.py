@@ -11,8 +11,6 @@ import base64
 import io
 from fpdf import FPDF
 
-# Ścieżka do tesseract.exe (zmień, jeśli masz inną)
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # --- STYLE CSS DLA OKIEN UPLOADU ---
 st.markdown("""
