@@ -1,5 +1,6 @@
 poppler-utils
 tesseract-ocr
+tesseract-ocr-pol
 libgl1
 libglib2.0-0
 fonts-dejavu-core
